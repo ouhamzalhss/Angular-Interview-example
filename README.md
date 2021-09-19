@@ -5,6 +5,7 @@
 - 1 .	Angular est un framework JavaScript permet le développement d'applications Web open source créé par Google. Il est utilisé pour créer des applications front end d'une seule page SPA. 
 
 - 2 .	Quelle est la différence entre Angular et AngularJS ?
+
 ANgular | Angular Js
 --- | --- 
 Il utilise des directives et des composants	| Il prend en charge le modèle Model-View-Controller ou MVC
