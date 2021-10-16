@@ -1,6 +1,6 @@
 ## <samp>Les Questions pour un entretien technique  </samp>
 
-#### Angular framework
+#### Angular framework PART 1:
 
 - 1 .	Angular est un framework JavaScript permet le développement d'applications Web open source créé par Google. Il est utilisé pour créer des applications front end d'une seule page SPA. 
 
