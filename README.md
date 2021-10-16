@@ -17,7 +17,7 @@ Sa structure simplifiée permet aux développeur de maintenir facilement de gran
 
 - 4 .	RxJS : Une implémentation JavaScript de standard ReactiveX permet de faire la programmation réactive.
 
-- 5 .	NgRx : Est une librairie implémentant le pattern Redux en utilisant la programmation réactive basé sur RxJS, permet à une application Angular de centraliser l’état de l’application, (Redux pour recat).
+- 5 .	NgRx : Est une librairie implémentant le pattern Redux en utilisant la programmation réactive basé sur RxJS, permet à une application Angular de centraliser l’état de l’application, (Redux pour Recat).
 
 - 6 .	Package.json : Npm installe le fichier package.json lorsqu'un nouvel espace de travail est créé, il comprend un ensemble de packages (Dependencies, DevDependencies)
 
