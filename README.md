@@ -43,7 +43,7 @@ Aider le développeur à établir la communication entre le DOM et le composant.
 - 11 .	C’est quoi Templates ?
 Sont écrits à l'aide de HTML qui inclut des attributs et des éléments spécifiques à Angular. Sont combinés avec les données des API web, pour offrir à l'utilisateur une vue dynamique.
 
-- 12 .	Service en Angular: Pour partager la logique sur plusieurs components, par exemple récupérer les données à partir d'une base de données.
+- 12 .	Service en Angular: Pour partager la logique sur plusieurs components, par exemple les données des API web.
 
 - 13 .	Promises and Observable:
   *  Promises : émettent une seule valeur à la fois, ils s'exécutent immédiatement après la création
